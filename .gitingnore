@@ -1,0 +1,11 @@
+/node_modules
+/logs
+/build
+/package.json
+/combined.log
+/prettierrc
+/eslintrc
+/env
+/bablelrc
+/tests
+/gitignore

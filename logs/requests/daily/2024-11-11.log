@@ -1,0 +1,72 @@
+info: ::1 - - [11/Nov/2024:10:37:53 +0000] "POST /api/v1/fetch HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [11/Nov/2024:10:38:35 +0000] "GET /api/v1/fetch HTTP/1.1" 200 211 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [11/Nov/2024:11:23:31 +0000] "GET /api/v1/fetch HTTP/1.1" 200 1371 "-" "PostmanRuntime/7.42.0"
+
+info: ::ffff:127.0.0.1 - - [11/Nov/2024:11:46:09 +0000] "GET /api/books HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [11/Nov/2024:11:46:10 +0000] "GET /api/books HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [11/Nov/2024:11:46:26 +0000] "GET /api/v1/books HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [11/Nov/2024:11:46:58 +0000] "GET /api/v1/fetchj HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [11/Nov/2024:11:47:00 +0000] "GET /api/v1/fetch HTTP/1.1" 200 1371 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [11/Nov/2024:12:02:08 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [11/Nov/2024:12:02:25 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [11/Nov/2024:12:02:30 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [11/Nov/2024:12:02:31 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [11/Nov/2024:12:05:55 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [11/Nov/2024:12:05:57 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [11/Nov/2024:12:06:08 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:06:14 +0000] "GET /api/v1/fetch HTTP/1.1" 200 1371 "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:06:27 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:08:24 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:08:26 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:14:42 +0000] "GET /api/v1/fetch HTTP/1.1" 200 1442 "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:16:09 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:17:06 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:17:10 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:17:55 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:17:55 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:17:55 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:17:55 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:17:55 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:17:55 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:17:58 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:18:39 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:18:39 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:18:39 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:18:39 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:18:43 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:192.168.1.43 - - [11/Nov/2024:12:18:49 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
