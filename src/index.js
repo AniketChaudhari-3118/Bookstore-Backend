@@ -16,6 +16,7 @@ import logger, { logStream } from './config/logger';
 
 import morgan from 'morgan';
 import bookRoute from './routes/books.route';
+import userRoute from './routes/user.route';
 
 const app = express();
 const host = process.env.APP_HOST;
@@ -33,6 +34,7 @@ app.use(morgan('combined', { stream: logStream }));
 database();
 
 app.use(`/api/${api_version}`, bookRoute);
+app.use(`/api/${api_version}`, userRoute);
 app.use(appErrorHandler);
 app.use(genericErrorHandler);
 app.use(notFound);

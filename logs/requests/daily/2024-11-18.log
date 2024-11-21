@@ -1,0 +1,436 @@
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:05:16:32 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:05:16:56 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:05:18:29 +0000] "POST /api/v1/login HTTP/1.1" 200 595 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:05:18:29 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:05:18:29 +0000] "GET /api/v1/getData/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:05:18:29 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:05:44:18 +0000] "POST /api/v1/login HTTP/1.1" 400 58 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:06:15:43 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:06:23:49 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:06:43:55 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:06:44:44 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:06:45:57 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:07:00:11 +0000] "POST /api/v1/login HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:07:11:33 +0000] "POST /api/v1/login HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:07:11:52 +0000] "POST /api/v1/login HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:29:23 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:30:55 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:31:52 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:32:34 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:33:13 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:36:35 +0000] "POST /api/v1/login HTTP/1.1" 200 802 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:36:36 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:36:36 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:36:46 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:36:53 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:36:53 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:36:55 +0000] "POST /api/v1/book/addToCart/undefined HTTP/1.1" 404 28 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:36:57 +0000] "POST /api/v1/book/addToCart/undefined HTTP/1.1" 404 28 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:36:58 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:37:01 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:37:01 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:37:09 +0000] "POST /api/v1/book/addToCart/undefined HTTP/1.1" 404 28 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:37:11 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:37:14 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:37:14 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:41:36 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:41:59 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:42:27 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:45:15 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:47:43 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:49:32 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:52:05 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:54:04 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:55:44 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:56:09 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:58:18 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:08:59:15 +0000] "POST /api/v1/protected HTTP/1.1" 400 58 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:00:02 +0000] "GET /api/v1/protected HTTP/1.1" 401 54 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:00:39 +0000] "GET /api/v1/protected HTTP/1.1" 401 54 "-" "okhttp/4.9.2"
+
+info: ::1 - - [18/Nov/2024:09:02:49 +0000] "POST /api/v1/login HTTP/1.1" 200 802 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [18/Nov/2024:09:03:54 +0000] "GET /api/v1/protected HTTP/1.1" 400 58 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [18/Nov/2024:09:06:01 +0000] "GET /api/v1/protected HTTP/1.1" 401 54 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [18/Nov/2024:09:06:25 +0000] "GET /api/v1/protected HTTP/1.1" 401 54 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [18/Nov/2024:09:08:15 +0000] "GET /api/v1/protected HTTP/1.1" 401 54 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [18/Nov/2024:09:08:32 +0000] "GET /api/v1/protected HTTP/1.1" 401 54 "-" "PostmanRuntime/7.42.0"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:10:48 +0000] "GET /api/v1/protected/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InByYW5pdEBnbWFpbC5jb20iLCJwYXNzd29yZCI6IlByYW5pdEAxMjMiLCJpYXQiOjE3MzE5MTg5OTUsImV4cCI6MTczNDUxMDk5NX0.A4wf8yIYaTgkg8fE1Z_kX0wwo9UpcWCEGxFFSi61N5s HTTP/1.1" 400 58 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:12:56 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:13:38 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:14:37 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:15:15 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:16:00 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:16:32 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:16:54 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:16:58 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:17:23 +0000] "GET /api/v1/protected HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:21:02 +0000] "GET /api/v1/protected HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:25:24 +0000] "GET /api/v1/protected HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:26:01 +0000] "GET /api/v1/protected HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:26:26 +0000] "GET /api/v1/protected HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:26:44 +0000] "GET /api/v1/protected HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:26:59 +0000] "GET /api/v1/protected HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:27:35 +0000] "GET /api/v1/protected HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:28:25 +0000] "GET /api/v1/protected HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:29:40 +0000] "GET /api/v1/protected HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:31:40 +0000] "GET /api/v1/protected HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:32:12 +0000] "GET /api/v1/protected HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:33:26 +0000] "GET /api/v1/protected HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:33:59 +0000] "GET /api/v1/protected HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:38:56 +0000] "GET /api/v1/protected HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:41:22 +0000] "GET /api/v1/protected HTTP/1.1" 401 38 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:41:54 +0000] "GET /api/v1/protected HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:42:09 +0000] "GET /api/v1/protected HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:46:43 +0000] "GET /api/v1/protected HTTP/1.1" 500 116 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:46:44 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:46:44 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:47:01 +0000] "POST /api/v1/book/addToCart/undefined HTTP/1.1" 404 28 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:47:08 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:47:10 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:47:10 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:47:16 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:47:32 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:47:32 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:47:33 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:47:33 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:49:07 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:49:19 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:49:19 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:49:20 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:49:20 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:50:55 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:51:08 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:51:08 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:51:08 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:51:08 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:51:54 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:52:11 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:52:11 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:52:12 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:52:12 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:54:23 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:54:24 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:54:24 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:55:44 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:55:44 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:55:44 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:58:12 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:58:12 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:09:58:13 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:02:38 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:02:38 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:02:38 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:04:21 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:04:21 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:04:21 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:05:37 +0000] "POST /api/v1/register HTTP/1.1" 201 351 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:05:52 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:05:52 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:05:53 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:06:36 +0000] "POST /api/v1/book/addToCart/undefined HTTP/1.1" 404 28 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:06:38 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:06:39 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:06:39 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:06:42 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:06:56 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:06:57 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:06:57 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:06:57 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:08:43 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:09:20 +0000] "POST /api/v1/register HTTP/1.1" 201 353 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:09:49 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:09:49 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:09:50 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:09:50 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:12:12 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:12:26 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:12:26 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:12:27 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:12:27 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:12:42 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:13:16 +0000] "POST /api/v1/register HTTP/1.1" 201 354 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:13:36 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:13:36 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:13:37 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:13:37 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:15:00 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:15:14 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:15:14 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:15:15 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:15:15 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:22:24 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:22:42 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:22:43 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:22:44 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:22:44 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:22:51 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:23:22 +0000] "POST /api/v1/register HTTP/1.1" 201 352 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:23:54 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:23:54 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:23:56 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:23:56 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:10:24:04 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:11:59 +0000] "GET /api/v1/protected HTTP/1.1" 500 86 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:12:06 +0000] "GET /api/v1/protected HTTP/1.1" 500 86 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:12:22 +0000] "GET /api/v1/protected HTTP/1.1" 500 86 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:13:33 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:13:34 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:13:36 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:13:36 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:14:26 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:14:38 +0000] "GET /api/v1/protected HTTP/1.1" 500 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:14:39 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:14:41 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:14:41 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:24:10 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:24:24 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:26:38 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:28:09 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:29:10 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:30:13 +0000] "POST /api/v1/login HTTP/1.1" 200 337 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:30:15 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 200 44 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:30:28 +0000] "POST /api/v1/login HTTP/1.1" 200 337 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:31:42 +0000] "POST /api/v1/login HTTP/1.1" 200 337 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:31:42 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:31:44 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:31:44 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:33:02 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:33:18 +0000] "POST /api/v1/login HTTP/1.1" 200 337 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:33:19 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:33:21 +0000] "GET /api/v1/getDataCart/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:33:21 +0000] "GET /api/v1/getData/undefined HTTP/1.1" 500 279 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:33:58 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:34:11 +0000] "POST /api/v1/login HTTP/1.1" 200 337 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:34:12 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:34:14 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:34:14 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 200 46 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:34:15 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:35:15 +0000] "POST /api/v1/book/addToCart/6735a34edc166108e8eb9f6a HTTP/1.1" 200 91 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:35:18 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:35:18 +0000] "GET /api/v1/getbook/undefined HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:35:21 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:35:21 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:35:21 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 200 81 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:35:24 +0000] "POST /api/v1/book/updateWishlist/6735a34edc166108e8eb9f6a HTTP/1.1" 200 94 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:35:28 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 200 81 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:35:30 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:35:34 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:35:34 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [18/Nov/2024:11:35:35 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+

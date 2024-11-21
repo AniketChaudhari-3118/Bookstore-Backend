@@ -9,6 +9,9 @@ const bookRoute = express.Router();
 // Get all books 
 bookRoute.get('/fetch', bookController.getBooks);
 
+//To update the Liked status of a Book
+bookRoute.put('/update/:id', bookController.updateLikedStatus);
+
 // // Update for liked
 // bookRoute.put('/update/:noteId', bookController.updateNote);
 

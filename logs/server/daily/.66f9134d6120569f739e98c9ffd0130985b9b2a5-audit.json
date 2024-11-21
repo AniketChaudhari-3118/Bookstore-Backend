@@ -9,6 +9,51 @@
             "date": 1731320642254,
             "name": "logs\\server\\daily\\2024-11-11.log",
             "hash": "d7f739a2b1ac03783fa5bff94dbc333a342209330d923e384a6e643ef70ef186"
+        },
+        {
+            "date": 1731387436935,
+            "name": "logs\\server\\daily\\2024-11-12.log",
+            "hash": "a135fe7e00ba976cc5329b5d5f7e9bceb65c95896fca4dafb9dd077d2ced516f"
+        },
+        {
+            "date": 1731489643434,
+            "name": "logs\\server\\daily\\2024-11-13.log",
+            "hash": "dea47748cf1a2d45d6fa9fff2fd871df989c2b14f99f77e77774ceedfdbc06d9"
+        },
+        {
+            "date": 1731560438691,
+            "name": "logs\\server\\daily\\2024-11-14.log",
+            "hash": "e7ac294e0429e0f5b4b511bb0def833b74c7ca9ef902d4b64913c4c7f1f7f6da"
+        },
+        {
+            "date": 1731609014327,
+            "name": "logs\\server\\daily\\2024-11-15.log",
+            "hash": "a1f12f063fadb13927ff0552ae60a1ee50e799696c178cc8d3d1c8764d90507e"
+        },
+        {
+            "date": 1731764360138,
+            "name": "logs\\server\\daily\\2024-11-16.log",
+            "hash": "16a95c3a4de00989143de19d469d2dac793d17b7498ef44eca1744fa7dc251da"
+        },
+        {
+            "date": 1731785555127,
+            "name": "logs\\server\\daily\\2024-11-17.log",
+            "hash": "401f465bc36df95f01803e4b452e696817ede4b7054ed67aa30241aa4f38a90b"
+        },
+        {
+            "date": 1731905103981,
+            "name": "logs\\server\\daily\\2024-11-18.log",
+            "hash": "134ef7766203f799210cb797305ecd5814008acb270ea1e7cb10ada3aad744cb"
+        },
+        {
+            "date": 1731994007569,
+            "name": "logs\\server\\daily\\2024-11-19.log",
+            "hash": "91a43f4a8e1ac9b69c035aa4d91c8a89304a040104443411c3651541e202fa69"
+        },
+        {
+            "date": 1732166020435,
+            "name": "logs\\server\\daily\\2024-11-21.log",
+            "hash": "1e9db928bdacace3cb459502cffe5e030ba005e9d01e18c9d7ac20b75a8310a0"
         }
     ],
     "hashType": "sha256"

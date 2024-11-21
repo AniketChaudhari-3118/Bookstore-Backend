@@ -1,6 +1,7 @@
 import HttpStatus from 'http-status-codes';
 import jwt from 'jsonwebtoken';
 import dotenv from 'dotenv';
+import { log } from 'winston';
 dotenv.config();
 
 
@@ -12,25 +13,23 @@ dotenv.config();
  * @param {Object} res
  * @param {Function} next
  */
-export const userAuth = async (req, res, next) => {
-  try {
-    let bearerToken = req.header('Authorization');
-    if (!bearerToken)
-      throw {
-        code: HttpStatus.BAD_REQUEST,
-        message: 'Authorization token is required'
-      };
-    bearerToken = bearerToken.split(' ')[1];
+export const userAuth = (req, res, next) => {
+  const token = req.headers['authorization']?.split(' ')[1]; // Extracts the token after 'Bearer'
 
-    const { user } = await jwt.verify(bearerToken, process.env.SECRET_KEY);
+  console.log('Token received:', token); // Debugging: Log the token
 
-    res.locals.user = user;
-    res.locals.token = bearerToken;
-    next();
-  } catch (error) {
-    next(error);
-  }
+  jwt.verify(token, process.env.SECRET_KEY, (err, user) => {
+    if (err) {
+      console.error('Token verification error:', err.message); // Debugging: Log verification errors
+      return res.status(403).json({ message: 'Invalid token' });
+    }
+
+    req.user = user; // Attach the user payload to the request object
+    console.log('Decoded user:', req.user); // Debugging: Log the decoded user
+    next(); // Proceed to the next middleware/route handler
+  });
 };
+
 
 export const authenticate = (req, res, next) => {
   const token = req.header('Authorization');

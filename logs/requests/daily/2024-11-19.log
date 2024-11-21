@@ -1,0 +1,1018 @@
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:36 +0000] "POST /api/v1/login HTTP/1.1" 200 409 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:36 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:37 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:38 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:45 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:45 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:48 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:48 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:48 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:50 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:50 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:53 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:53 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:53 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:55 +0000] "POST /api/v1/book/addToCart/6735a34edc166108e8eb9f6a HTTP/1.1" 200 129 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:56 +0000] "POST /api/v1/book/addToCart/6735a34edc166108e8eb9f6a HTTP/1.1" 200 167 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:59 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 200 157 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:59 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:59 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:31:59 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:32:26 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:32:26 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:32:26 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:32:28 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:32:28 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:32:28 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:32:28 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:32:31 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:32:31 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:32:31 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:36:22 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:36:22 +0000] "GET /api/v1/getData/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:36:22 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:36:22 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:36:41 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:36:53 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:37:57 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:38:01 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:39:34 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:41:18 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:41:49 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:47:54 +0000] "POST /api/v1/login HTTP/1.1" 200 692 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:47:56 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:47:56 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:47:56 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:47:56 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:47:56 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:47:56 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:47:56 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:47:56 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:47:56 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:47:56 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:47:56 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:47:56 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:47:56 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:47:56 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:49:25 +0000] "POST /api/v1/login HTTP/1.1" 200 692 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:08 +0000] "POST /api/v1/login HTTP/1.1" 200 692 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:08 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:08 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:08 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:25 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:25 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:25 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:25 +0000] "GET /api/v1/getData/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:28 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:28 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:28 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:28 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:28 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:28 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:28 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:28 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:29 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:29 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:29 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:29 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:29 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:29 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:33 +0000] "GET /api/v1/getData/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:33 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:33 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:33 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:50 +0000] "POST /api/v1/login HTTP/1.1" 200 802 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:50 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getData/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getData/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:05:50:51 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:18 +0000] "GET /api/v1/getData/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:18 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:18 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:18 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:57 +0000] "POST /api/v1/login HTTP/1.1" 200 692 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:57 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:58 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:59 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:59 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:59 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:59 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:59 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:59 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:59 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:59 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:59 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:59 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:59 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:59 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:59 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:17:59 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:18:00 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:35 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:35 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:35 +0000] "GET /api/v1/getData/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:35 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:50 +0000] "POST /api/v1/login HTTP/1.1" 200 692 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:51 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:52 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:52 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:52 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:52 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:52 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:52 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:52 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:52 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:52 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:52 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:52 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:52 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:52 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:52 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:52 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:19:53 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:20:54 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:20:54 +0000] "GET /api/v1/getData/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:20:54 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:20:54 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:49 +0000] "POST /api/v1/login HTTP/1.1" 200 802 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:49 +0000] "POST /api/v1/login HTTP/1.1" 200 802 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:50 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:53 +0000] "GET /api/v1/getData/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:53 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:53 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:53 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:54 +0000] "GET /api/v1/getData/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:54 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:54 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:54 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:54 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:54 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:54 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:54 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:54 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:54 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:54 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:54 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:54 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:54 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:54 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:54 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:31:55 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:32:56 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:32:56 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:32:56 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:32:56 +0000] "GET /api/v1/getData/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:35 +0000] "POST /api/v1/login HTTP/1.1" 200 692 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:35 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:37 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:37 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:37 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:37 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:37 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:37 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:37 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:37 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:37 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:37 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:37 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:37 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:37 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:37 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:37 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:37 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:43 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:43 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:43 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:43 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:50 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:50 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:34:50 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:36:30 +0000] "POST /api/v1/book/updateWishlist/6735a34edc166108e8eb9f6a HTTP/1.1" 200 132 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:37:13 +0000] "POST /api/v1/book/updateWishlist/6735a34edc166108e8eb9f6a HTTP/1.1" 200 94 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:37:17 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:37:17 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:37:19 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:37:19 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:37:19 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:36 +0000] "GET /api/v1/getData/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:36 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:36 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:36 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:36 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:36 +0000] "GET /api/v1/getData/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:50 +0000] "POST /api/v1/login HTTP/1.1" 200 802 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:51 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:52 +0000] "GET /api/v1/getData/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:52 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getData/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getData/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:39:53 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:25 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:32 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getData/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getData/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:54 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:58 +0000] "GET /api/v1/getData/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:58 +0000] "GET /api/v1/getData/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:58 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:58 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:58 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:58 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:58 +0000] "GET /api/v1/getbook/6731e7e08622930f217d846d HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:41:58 +0000] "GET /api/v1/getbook/6731e8cb8622930f217d846f HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:01 +0000] "GET /api/v1/getData/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:01 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:01 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:01 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:01 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:01 +0000] "GET /api/v1/getData/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:14 +0000] "POST /api/v1/login HTTP/1.1" 200 692 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:15 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:16 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:16 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:42:17 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:51:32 +0000] "POST /api/v1/login HTTP/1.1" 200 692 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:51:33 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:51:33 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:51:33 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:52:33 +0000] "POST /api/v1/login HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:53:26 +0000] "POST /api/v1/login HTTP/1.1" 401 39 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:54:00 +0000] "POST /api/v1/login HTTP/1.1" 200 802 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:54:00 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:54:00 +0000] "GET /api/v1/getData/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:06:54:00 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::1 - - [19/Nov/2024:06:56:54 +0000] "POST /api/v1/protected/ HTTP/1.1" 500 58 "-" "PostmanRuntime/7.42.0"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:00:33 +0000] "POST /api/v1/login HTTP/1.1" 200 692 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:00:34 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:00:34 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:00:34 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:00:42 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:00:42 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:00:42 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:00:42 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:00:53 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:00:53 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:00:53 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::1 - - [19/Nov/2024:07:02:48 +0000] "POST /api/v1/protected/ HTTP/1.1" 403 27 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:04:35 +0000] "POST /api/v1/protected/ HTTP/1.1" 403 27 "-" "PostmanRuntime/7.42.0"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:04:49 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:05:28 +0000] "POST /api/v1/login HTTP/1.1" 200 541 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:05:28 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:05:28 +0000] "GET /api/v1/getDataCart/673b133ccf588432bc61e5e0 HTTP/1.1" 200 44 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:05:28 +0000] "GET /api/v1/getData/673b133ccf588432bc61e5e0 HTTP/1.1" 200 44 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:07:05:28 +0000] "GET /api/v1/getDataCart/673b133ccf588432bc61e5e0 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::1 - - [19/Nov/2024:07:06:14 +0000] "POST /api/v1/protected/ HTTP/1.1" 403 27 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:06:26 +0000] "POST /api/v1/protected/ HTTP/1.1" 403 27 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:06:29 +0000] "POST /api/v1/protected/ HTTP/1.1" 403 27 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:06:35 +0000] "POST /api/v1/protected/ HTTP/1.1" 403 27 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:07:16 +0000] "POST /api/v1/protected/ HTTP/1.1" 403 27 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:08:14 +0000] "POST /api/v1/protected/ HTTP/1.1" 403 27 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:09:10 +0000] "POST /api/v1/login/ HTTP/1.1" 200 541 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:09:50 +0000] "POST /api/v1/protected/ HTTP/1.1" 403 27 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:14:47 +0000] "POST /api/v1/login/ HTTP/1.1" 200 505 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:15:50 +0000] "POST /api/v1/protected/ HTTP/1.1" 403 27 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:17:09 +0000] "POST /api/v1/protected/ HTTP/1.1" 403 27 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:17:29 +0000] "POST /api/v1/protected/ HTTP/1.1" 403 27 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:18:25 +0000] "POST /api/v1/protected/ HTTP/1.1" 403 27 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:18:45 +0000] "POST /api/v1/protected/ HTTP/1.1" 403 27 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:24:36 +0000] "POST /api/v1/login/ HTTP/1.1" 200 505 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:24:53 +0000] "POST /api/v1/protected/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:25:46 +0000] "POST /api/v1/protected/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:26:16 +0000] "POST /api/v1/protected/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:26:20 +0000] "POST /api/v1/protected/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:27:05 +0000] "POST /api/v1/protected HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:27:25 +0000] "POST /api/v1/login HTTP/1.1" 200 505 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:27:54 +0000] "POST /api/v1/protected HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:28:20 +0000] "POST /api/v1/protected HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:28:33 +0000] "POST /api/v1/protected HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:30:32 +0000] "POST /api/v1/protected HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:31:35 +0000] "POST /api/v1/protected HTTP/1.1" 200 5 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:32:20 +0000] "POST /api/v1/protected HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:33:50 +0000] "POST /api/v1/protected HTTP/1.1" 200 61 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:07:36:53 +0000] "POST /api/v1/protected HTTP/1.1" 200 26 "-" "PostmanRuntime/7.42.0"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:34:12 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:34:36 +0000] "POST /api/v1/protected HTTP/1.1" 403 27 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:34:36 +0000] "POST /api/v1/login HTTP/1.1" 200 657 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:34:36 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:34:36 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:34:36 +0000] "GET /api/v1/getData/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:34:36 +0000] "GET /api/v1/getbook/6731e7818622930f217d846b HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:34:36 +0000] "GET /api/v1/getbook/6731e6fb8622930f217d8469 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:34:36 +0000] "GET /api/v1/getbook/6731e64f8622930f217d8467 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:34:37 +0000] "GET /api/v1/getDataCart/6735a34edc166108e8eb9f6a HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:35:11 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:35:33 +0000] "POST /api/v1/protected HTTP/1.1" 403 27 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:35:57 +0000] "POST /api/v1/protected HTTP/1.1" 403 27 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:39:08 +0000] "POST /api/v1/protected HTTP/1.1" 403 27 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:39:43 +0000] "POST /api/v1/protected HTTP/1.1" 403 27 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:44:06 +0000] "POST /api/v1/protected HTTP/1.1" 403 27 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:46:27 +0000] "POST /api/v1/protected HTTP/1.1" 403 27 "-" "okhttp/4.9.2"
+
+info: ::1 - - [19/Nov/2024:08:46:51 +0000] "POST /api/v1/protected HTTP/1.1" 500 22 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:08:47:18 +0000] "POST /api/v1/protected HTTP/1.1" 500 22 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:08:47:57 +0000] "POST /api/v1/login HTTP/1.1" 200 657 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:08:48:38 +0000] "POST /api/v1/protected HTTP/1.1" 500 22 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:08:48:59 +0000] "POST /api/v1/protected HTTP/1.1" 500 22 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:08:49:51 +0000] "POST /api/v1/protected HTTP/1.1" 200 26 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:08:50:32 +0000] "POST /api/v1/protected HTTP/1.1" 500 82 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:08:51:33 +0000] "POST /api/v1/protected HTTP/1.1" 200 108 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:08:52:59 +0000] "POST /api/v1/login HTTP/1.1" 200 668 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:08:53:23 +0000] "POST /api/v1/protected HTTP/1.1" 200 116 "-" "PostmanRuntime/7.42.0"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:54:14 +0000] "POST /api/v1/protected HTTP/1.1" 403 27 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:54:14 +0000] "POST /api/v1/protected HTTP/1.1" 403 27 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:56:24 +0000] "POST /api/v1/register HTTP/1.1" 201 350 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:56:37 +0000] "POST /api/v1/protected HTTP/1.1" 403 27 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:08:57:23 +0000] "POST /api/v1/protected HTTP/1.1" 403 27 "-" "okhttp/4.9.2"
+
+info: ::1 - - [19/Nov/2024:08:57:41 +0000] "POST /api/v1/protected HTTP/1.1" 200 116 "-" "PostmanRuntime/7.42.0"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:01:12 +0000] "POST /api/v1/protected HTTP/1.1" 200 108 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:01:14 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:01:15 +0000] "GET /api/v1/getDataCart/aniket@gmail.com HTTP/1.1" 500 300 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:01:15 +0000] "GET /api/v1/getData/aniket@gmail.com HTTP/1.1" 500 300 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:01:23 +0000] "POST /api/v1/book/addToCart/aniket@gmail.com HTTP/1.1" 404 28 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:01:25 +0000] "POST /api/v1/book/addToCart/aniket@gmail.com HTTP/1.1" 404 28 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:01:27 +0000] "GET /api/v1/getData/aniket@gmail.com HTTP/1.1" 500 300 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:01:30 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:01:30 +0000] "GET /api/v1/getData/aniket@gmail.com HTTP/1.1" 500 300 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:01:40 +0000] "GET /api/v1/getDataCart/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:01:40 +0000] "GET /api/v1/getData/ HTTP/1.1" 404 47 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:01:57 +0000] "POST /api/v1/protected HTTP/1.1" 200 108 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:01:57 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:01:58 +0000] "GET /api/v1/getDataCart/aniket@gmail.com HTTP/1.1" 500 300 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:01:58 +0000] "GET /api/v1/getData/aniket@gmail.com HTTP/1.1" 500 300 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:01:58 +0000] "GET /api/v1/getData/aniket@gmail.com HTTP/1.1" 500 300 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:06:30 +0000] "POST /api/v1/protected HTTP/1.1" 200 108 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:06:30 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:06:30 +0000] "GET /api/v1/getData/aniket@gmail.com HTTP/1.1" 500 300 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:07:22 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:07:22 +0000] "GET /api/v1/getData/aniket@gmail.com HTTP/1.1" 500 300 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:07:23 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:07:23 +0000] "GET /api/v1/getData/aniket@gmail.com HTTP/1.1" 500 300 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:07:26 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:07:26 +0000] "GET /api/v1/getData/aniket@gmail.com HTTP/1.1" 500 300 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:07:42 +0000] "POST /api/v1/protected HTTP/1.1" 200 108 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:07:43 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:07:43 +0000] "GET /api/v1/getData/aniket@gmail.com HTTP/1.1" 500 300 "-" "okhttp/4.9.2"
+
+info: ::1 - - [19/Nov/2024:09:10:03 +0000] "POST /api/v1/protected HTTP/1.1" 200 116 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:09:10:35 +0000] "POST /api/v1/login HTTP/1.1" 200 778 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [19/Nov/2024:09:11:00 +0000] "POST /api/v1/protected HTTP/1.1" 200 116 "-" "PostmanRuntime/7.42.0"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:09:12:38 +0000] "POST /api/v1/protected HTTP/1.1" 200 108 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:10:59:29 +0000] "POST /api/v1/protected HTTP/1.1" 200 108 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:11:00:14 +0000] "POST /api/v1/protected HTTP/1.1" 200 108 "-" "okhttp/4.9.2"
+
+info: ::1 - - [19/Nov/2024:11:01:41 +0000] "POST /api/v1/protected HTTP/1.1" 200 116 "-" "PostmanRuntime/7.42.0"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:11:02:14 +0000] "POST /api/v1/protected HTTP/1.1" 200 108 "-" "okhttp/4.9.2"
+
+info: ::1 - - [19/Nov/2024:11:02:59 +0000] "POST /api/v1/protected HTTP/1.1" 200 116 "-" "PostmanRuntime/7.42.0"
+
+info: ::ffff:127.0.0.1 - - [19/Nov/2024:11:03:31 +0000] "POST /api/v1/protected HTTP/1.1" 200 66 "-" "okhttp/4.9.2"
+
+info: ::1 - - [19/Nov/2024:11:03:49 +0000] "POST /api/v1/protected HTTP/1.1" 200 74 "-" "PostmanRuntime/7.42.0"
+
