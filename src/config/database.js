@@ -4,7 +4,7 @@ import logger from './logger';
 const database = async () => {
  try {
 
-        await mongoose.connect(${process.env.MONGO_URI}/${process.env.DB_Name}).then(() => {
+        await mongoose.connect(`${process.env.MONGO_URI}/${process.env.DB_Name}`).then(() => {
 
             console.log('====================================');
 
