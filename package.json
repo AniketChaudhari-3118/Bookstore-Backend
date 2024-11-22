@@ -29,6 +29,7 @@
     "mongoose": "^5.13.22",
     "morgan": "^1.10.0",
     "swagger-jsdoc": "^6.2.8",
+    "swagger-ui": "^5.18.2",
     "swagger-ui-express": "^5.0.1",
     "winston": "^3.15.0",
     "winston-daily-rotate-file": "^4.5.0"

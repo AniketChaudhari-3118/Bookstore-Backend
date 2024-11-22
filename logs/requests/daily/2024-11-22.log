@@ -1,0 +1,42 @@
+info: ::ffff:127.0.0.1 - - [22/Nov/2024:05:37:46 +0000] "POST /api/v1/protected HTTP/1.1" 200 86 "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [22/Nov/2024:05:37:47 +0000] "GET /api/v1/fetch HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [22/Nov/2024:05:37:47 +0000] "GET /api/v1/getData/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::ffff:127.0.0.1 - - [22/Nov/2024:05:37:47 +0000] "GET /api/v1/getDataCart/6737728dc58a941bd418ac53 HTTP/1.1" 304 - "-" "okhttp/4.9.2"
+
+info: ::1 - - [22/Nov/2024:07:00:59 +0000] "POST /user/login HTTP/1.1" 404 47 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+info: ::1 - - [22/Nov/2024:07:01:39 +0000] "POST /user/login HTTP/1.1" 404 47 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+info: ::1 - - [22/Nov/2024:07:02:19 +0000] "POST /user/login HTTP/1.1" 404 47 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+info: ::1 - - [22/Nov/2024:07:03:13 +0000] "POST /user/login HTTP/1.1" 404 47 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+info: ::1 - - [22/Nov/2024:07:04:46 +0000] "POST /api/v1/login HTTP/1.1" 200 668 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+info: ::1 - - [22/Nov/2024:07:05:32 +0000] "POST /api/v1/login HTTP/1.1" 500 37 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+info: ::1 - - [22/Nov/2024:09:38:11 +0000] "GET /books HTTP/1.1" 404 47 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+info: ::1 - - [22/Nov/2024:09:38:45 +0000] "GET /books HTTP/1.1" 404 47 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+info: ::1 - - [22/Nov/2024:09:40:02 +0000] "GET /api/v1/fetch HTTP/1.1" 200 55423 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+info: ::1 - - [22/Nov/2024:09:41:30 +0000] "POST /api/v1/book/6731e64f8622930f217d8467 HTTP/1.1" 500 37 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+info: ::1 - - [22/Nov/2024:09:41:50 +0000] "POST /api/v1/book/%226731e64f8622930f217d8467%22 HTTP/1.1" 500 336 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+info: ::1 - - [22/Nov/2024:09:43:25 +0000] "POST /api/v1/6731e64f8622930f217d8467 HTTP/1.1" 404 47 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+info: ::1 - - [22/Nov/2024:09:44:51 +0000] "POST /api/v1/book/updateWishlist/6731e64f8622930f217d8467 HTTP/1.1" 404 28 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+info: ::1 - - [22/Nov/2024:09:46:02 +0000] "POST /api/v1/book/6731e64f8622930f217d8467 HTTP/1.1" 500 37 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+info: ::1 - - [22/Nov/2024:09:46:25 +0000] "GET /api/v1/getData/6731e64f8622930f217d8467 HTTP/1.1" 500 37 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+info: ::1 - - [22/Nov/2024:09:46:46 +0000] "GET /api/v1/getData/6735a10798bca9afc430c4de HTTP/1.1" 200 44 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+info: ::1 - - [22/Nov/2024:09:47:09 +0000] "POST /api/v1/book/6735a10798bca9afc430c4de HTTP/1.1" 200 317 "http://localhost:5000/doc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
