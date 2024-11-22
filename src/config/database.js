@@ -2,21 +2,20 @@ import mongoose from 'mongoose';
 import logger from './logger';
 
 const database = async () => {
-  try {
-    // Replace database value in the .env file with your database config url
-    const DATABASE = process.env.NODE_ENV === 'test'
-      ? process.env.DATABASE_TEST
-      : process.env.DATABASE;
+ try {
 
-     mongoose.connect(DATABASE, {
-      useFindAndModify: false,
-      useCreateIndex: true,
-      useNewUrlParser: true,
-      useUnifiedTopology: true
-    });
-    logger.info('Connected to the database.');
-  } catch (error) {
-    logger.error('Could not connect to the database.', error);
-  }
+        await mongoose.connect(${process.env.MONGO_URI}/${process.env.DB_Name}).then(() => {
+
+            console.log('====================================');
+
+            console.log('db connected...');
+
+        });
+
+    } catch (error) {
+
+        console.log(error);
+
+    }
 };
 export default database;
